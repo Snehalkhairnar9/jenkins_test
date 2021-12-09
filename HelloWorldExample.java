@@ -1,9 +1,4 @@
-/**
-  * Utility class for extracting digits from integers.
-  *
-  * @version 1.0
-  */
-   class HelloWorldExample{ 
+ class HelloWorldExample{ 
        /**
        * Tests the application through the main method.
        *
@@ -14,5 +9,4 @@
           System.out.println("Some silly change");
         }  
     }  
-    
-© 2021 GitHub, Inc.
+
